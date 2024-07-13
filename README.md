@@ -18,3 +18,4 @@ Fizzmore requires that you have installed a Python intrepreter v3.9 or higher.
 - Examples:
 1. python3 fizzmore.py --inputFile=fizmo_os_1.12.mid --check=1.12
 
+- When completed, use a SysEx tool to send each of the 14 files, in numbered order, to the FIZMO, and wait until the FIZMO is ready before sending each of the next messages.
